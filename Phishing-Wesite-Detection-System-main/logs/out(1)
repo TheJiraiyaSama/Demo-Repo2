@@ -1,0 +1,355 @@
+2022-12-23 10:33:45,781 __main__ INFO google.com/
+2022-12-23 10:33:45,879 __main__ INFO None
+2022-12-23 10:33:46,369 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 10:33:46,369 __main__ INFO error ipening as
+2022-12-23 10:33:47,343 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 10:46:03,379 __main__ INFO google.com/
+2022-12-23 10:46:03,469 __main__ INFO None
+2022-12-23 10:46:03,942 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 10:46:03,942 __main__ INFO error ipening as
+2022-12-23 10:46:04,937 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 10:52:36,976 __main__ INFO google.com/
+2022-12-23 10:52:37,225 __main__ INFO None
+2022-12-23 10:52:37,647 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 10:52:37,648 __main__ INFO error ipening as
+2022-12-23 10:52:38,633 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 11:31:15,949 __main__ INFO google.com/
+2022-12-23 11:31:16,146 __main__ INFO None
+2022-12-23 11:31:18,098 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 11:31:18,100 __main__ INFO error ipening as
+2022-12-23 11:31:19,143 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:37:24,776 __main__ INFO google.com/
+2022-12-23 12:37:26,527 __main__ INFO None
+2022-12-23 12:37:27,050 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:37:27,050 __main__ INFO error ipening as
+2022-12-23 12:37:28,082 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:38:02,601 __main__ INFO google.com/
+2022-12-23 12:38:02,705 __main__ INFO None
+2022-12-23 12:38:04,354 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:38:04,354 __main__ INFO error ipening as
+2022-12-23 12:38:05,454 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:40:28,409 __main__ INFO google.com/
+2022-12-23 12:40:28,452 __main__ INFO None
+2022-12-23 12:40:29,058 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:40:29,058 __main__ INFO error ipening as
+2022-12-23 12:40:30,014 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:43:39,951 __main__ INFO google.com/
+2022-12-23 12:43:40,040 __main__ INFO None
+2022-12-23 12:43:40,685 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:43:40,685 __main__ INFO error ipening as
+2022-12-23 12:43:41,634 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:44:16,991 __main__ INFO google.com/
+2022-12-23 12:44:19,131 __main__ INFO None
+2022-12-23 12:44:20,063 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:44:20,063 __main__ INFO error ipening as
+2022-12-23 12:44:21,756 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:45:01,616 __main__ INFO google.com/
+2022-12-23 12:45:01,656 __main__ INFO None
+2022-12-23 12:45:02,211 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:45:02,211 __main__ INFO error ipening as
+2022-12-23 12:45:03,190 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:47:06,006 __main__ INFO google.com/
+2022-12-23 12:47:06,102 __main__ INFO None
+2022-12-23 12:47:06,503 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:47:06,503 __main__ INFO error ipening as
+2022-12-23 12:47:07,434 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:47:20,260 __main__ INFO google.com/
+2022-12-23 12:47:20,363 __main__ INFO None
+2022-12-23 12:47:20,801 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:47:20,802 __main__ INFO error ipening as
+2022-12-23 12:47:21,988 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:48:24,333 __main__ INFO google.com/
+2022-12-23 12:48:24,415 __main__ INFO None
+2022-12-23 12:48:24,953 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:48:24,954 __main__ INFO error ipening as
+2022-12-23 12:48:25,973 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:48:55,245 __main__ INFO google.com/
+2022-12-23 12:48:55,324 __main__ INFO None
+2022-12-23 12:48:55,875 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:48:55,876 __main__ INFO error ipening as
+2022-12-23 12:48:56,858 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:51:25,769 __main__ INFO google.com/
+2022-12-23 12:51:25,893 __main__ INFO None
+2022-12-23 12:51:26,516 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:51:26,517 __main__ INFO error ipening as
+2022-12-23 12:51:27,471 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:52:25,545 __main__ INFO google.com/
+2022-12-23 12:52:25,636 __main__ INFO None
+2022-12-23 12:52:26,184 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:52:26,184 __main__ INFO error ipening as
+2022-12-23 12:52:27,143 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:52:52,935 __main__ INFO google.com/
+2022-12-23 12:52:53,177 __main__ INFO None
+2022-12-23 12:52:53,720 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:52:53,721 __main__ INFO error ipening as
+2022-12-23 12:52:54,689 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:53:13,697 __main__ INFO google.com/
+2022-12-23 12:53:13,784 __main__ INFO None
+2022-12-23 12:53:14,415 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:53:14,415 __main__ INFO error ipening as
+2022-12-23 12:53:15,611 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:53:45,157 __main__ INFO google.com/
+2022-12-23 12:53:45,287 __main__ INFO None
+2022-12-23 12:53:45,744 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:53:45,744 __main__ INFO error ipening as
+2022-12-23 12:53:46,675 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:53:57,142 __main__ INFO google.com/
+2022-12-23 12:53:57,231 __main__ INFO None
+2022-12-23 12:53:57,669 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:53:57,669 __main__ INFO error ipening as
+2022-12-23 12:53:58,635 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:55:06,204 __main__ INFO google.com/
+2022-12-23 12:55:08,344 __main__ INFO None
+2022-12-23 12:55:08,837 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:55:08,837 __main__ INFO error ipening as
+2022-12-23 12:55:09,857 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:55:42,056 __main__ INFO google.com/
+2022-12-23 12:55:42,200 __main__ INFO None
+2022-12-23 12:55:42,624 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:55:42,624 __main__ INFO error ipening as
+2022-12-23 12:55:43,593 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:57:35,783 __main__ INFO google.com/
+2022-12-23 12:57:35,882 __main__ INFO None
+2022-12-23 12:57:36,739 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:57:36,740 __main__ INFO error ipening as
+2022-12-23 12:57:37,733 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:58:00,139 __main__ INFO google.com/
+2022-12-23 12:58:00,236 __main__ INFO None
+2022-12-23 12:58:00,665 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:58:00,665 __main__ INFO error ipening as
+2022-12-23 12:58:01,622 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 12:58:11,496 __main__ INFO google.com/
+2022-12-23 12:58:11,551 __main__ INFO None
+2022-12-23 12:58:11,979 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 12:58:11,979 __main__ INFO error ipening as
+2022-12-23 12:58:12,930 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:06:45,453 __main__ INFO google.com/
+2022-12-23 13:06:45,539 __main__ INFO None
+2022-12-23 13:06:46,007 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:06:46,007 __main__ INFO error ipening as
+2022-12-23 13:06:47,302 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:07:20,981 __main__ INFO google.com/
+2022-12-23 13:07:21,040 __main__ INFO None
+2022-12-23 13:07:21,504 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:07:21,505 __main__ INFO error ipening as
+2022-12-23 13:07:22,687 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:08:05,850 __main__ INFO google.com/
+2022-12-23 13:08:06,298 __main__ INFO None
+2022-12-23 13:08:07,799 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:08:07,800 __main__ INFO error ipening as
+2022-12-23 13:08:09,521 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:08:29,012 __main__ INFO google.com/
+2022-12-23 13:08:29,482 __main__ INFO None
+2022-12-23 13:08:32,358 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:08:32,358 __main__ INFO error ipening as
+2022-12-23 13:08:37,108 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:08:55,214 __main__ INFO google.com/
+2022-12-23 13:08:55,421 __main__ INFO None
+2022-12-23 13:08:55,979 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:08:55,979 __main__ INFO error ipening as
+2022-12-23 13:08:57,610 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:09:05,220 __main__ INFO google.com/
+2022-12-23 13:09:07,338 __main__ INFO None
+2022-12-23 13:09:08,417 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:09:08,417 __main__ INFO error ipening as
+2022-12-23 13:09:09,894 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:09:41,227 __main__ INFO google.com/
+2022-12-23 13:09:41,979 __main__ INFO None
+2022-12-23 13:09:43,138 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:09:43,138 __main__ INFO error ipening as
+2022-12-23 13:09:44,522 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:10:04,485 __main__ INFO google.com/
+2022-12-23 13:10:04,959 __main__ INFO None
+2022-12-23 13:10:06,707 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:10:06,707 __main__ INFO error ipening as
+2022-12-23 13:10:08,997 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:10:36,664 __main__ INFO google.com/
+2022-12-23 13:10:36,807 __main__ INFO None
+2022-12-23 13:10:37,684 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:10:37,684 __main__ INFO error ipening as
+2022-12-23 13:10:39,939 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:11:47,806 __main__ INFO google.com/
+2022-12-23 13:11:49,160 __main__ INFO None
+2022-12-23 13:11:51,428 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:11:51,428 __main__ INFO error ipening as
+2022-12-23 13:11:53,377 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:12:20,157 __main__ INFO google.com/
+2022-12-23 13:12:20,477 __main__ INFO None
+2022-12-23 13:12:21,213 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:12:21,214 __main__ INFO error ipening as
+2022-12-23 13:12:22,387 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:14:11,992 __main__ INFO google.com/
+2022-12-23 13:14:12,090 __main__ INFO None
+2022-12-23 13:14:12,611 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:14:12,612 __main__ INFO error ipening as
+2022-12-23 13:14:13,818 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:15:09,137 __main__ INFO google.com/
+2022-12-23 13:15:09,469 __main__ INFO None
+2022-12-23 13:15:10,690 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:15:10,690 __main__ INFO error ipening as
+2022-12-23 13:15:12,415 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:15:24,682 __main__ INFO google.com/
+2022-12-23 13:15:24,928 __main__ INFO None
+2022-12-23 13:15:25,824 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:15:25,825 __main__ INFO error ipening as
+2022-12-23 13:15:27,583 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:16:30,221 __main__ INFO google.com/
+2022-12-23 13:16:30,616 __main__ INFO None
+2022-12-23 13:16:31,453 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:16:31,453 __main__ INFO error ipening as
+2022-12-23 13:16:33,839 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:16:59,124 __main__ INFO google.com/
+2022-12-23 13:17:00,248 __main__ INFO None
+2022-12-23 13:17:02,295 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:17:02,295 __main__ INFO error ipening as
+2022-12-23 13:17:05,194 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:17:18,763 __main__ INFO google.com/
+2022-12-23 13:17:20,221 __main__ INFO None
+2022-12-23 13:17:22,819 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:17:22,820 __main__ INFO error ipening as
+2022-12-23 13:17:24,427 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:17:47,682 __main__ INFO google.com/
+2022-12-23 13:17:48,586 __main__ INFO None
+2022-12-23 13:17:49,378 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:17:49,378 __main__ INFO error ipening as
+2022-12-23 13:17:50,866 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:19:03,298 __main__ INFO google.com/
+2022-12-23 13:19:03,514 __main__ INFO None
+2022-12-23 13:19:04,951 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:19:04,952 __main__ INFO error ipening as
+2022-12-23 13:19:06,571 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:19:19,479 __main__ INFO google.com/
+2022-12-23 13:19:19,809 __main__ INFO None
+2022-12-23 13:19:22,238 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:19:22,239 __main__ INFO error ipening as
+2022-12-23 13:19:24,462 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:19:42,757 __main__ INFO google.com/
+2022-12-23 13:19:43,467 __main__ INFO None
+2022-12-23 13:19:44,156 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:19:44,156 __main__ INFO error ipening as
+2022-12-23 13:19:45,349 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:22:51,917 __main__ INFO google.com/
+2022-12-23 13:22:52,252 __main__ INFO None
+2022-12-23 13:22:52,919 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:22:52,919 __main__ INFO error ipening as
+2022-12-23 13:22:54,362 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:23:12,943 __main__ INFO google.com/
+2022-12-23 13:23:13,320 __main__ INFO None
+2022-12-23 13:23:14,139 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:23:14,140 __main__ INFO error ipening as
+2022-12-23 13:23:15,623 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:24:03,101 __main__ INFO google.com/
+2022-12-23 13:24:03,478 __main__ INFO None
+2022-12-23 13:24:04,486 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:24:04,486 __main__ INFO error ipening as
+2022-12-23 13:24:06,033 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:24:23,267 __main__ INFO google.com/
+2022-12-23 13:24:23,568 __main__ INFO None
+2022-12-23 13:24:24,394 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:24:24,394 __main__ INFO error ipening as
+2022-12-23 13:24:26,228 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:24:58,826 __main__ INFO google.com/
+2022-12-23 13:24:59,310 __main__ INFO None
+2022-12-23 13:25:00,185 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:25:00,185 __main__ INFO error ipening as
+2022-12-23 13:25:01,530 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:25:21,870 __main__ INFO google.com/
+2022-12-23 13:25:22,125 __main__ INFO None
+2022-12-23 13:25:22,955 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:25:22,955 __main__ INFO error ipening as
+2022-12-23 13:25:24,939 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:25:30,497 __main__ INFO google.com/
+2022-12-23 13:25:30,758 __main__ INFO None
+2022-12-23 13:25:31,810 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:25:31,810 __main__ INFO error ipening as
+2022-12-23 13:25:33,209 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:26:20,198 __main__ INFO google.com/
+2022-12-23 13:26:20,519 __main__ INFO None
+2022-12-23 13:26:22,304 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:26:22,304 __main__ INFO error ipening as
+2022-12-23 13:26:24,015 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:26:54,017 __main__ INFO google.com/
+2022-12-23 13:26:54,955 __main__ INFO None
+2022-12-23 13:26:56,457 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:26:56,457 __main__ INFO error ipening as
+2022-12-23 13:26:58,015 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:28:49,403 __main__ INFO google.com/
+2022-12-23 13:28:49,770 __main__ INFO None
+2022-12-23 13:28:50,800 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:28:50,800 __main__ INFO error ipening as
+2022-12-23 13:28:52,359 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:29:28,311 __main__ INFO google.com/
+2022-12-23 13:29:28,721 __main__ INFO None
+2022-12-23 13:29:29,924 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:29:29,924 __main__ INFO error ipening as
+2022-12-23 13:29:31,396 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:30:08,893 __main__ INFO google.com/
+2022-12-23 13:30:09,341 __main__ INFO None
+2022-12-23 13:30:10,129 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:30:10,130 __main__ INFO error ipening as
+2022-12-23 13:30:11,697 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:30:40,574 __main__ INFO google.com/
+2022-12-23 13:30:40,877 __main__ INFO None
+2022-12-23 13:30:42,023 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:30:42,024 __main__ INFO error ipening as
+2022-12-23 13:30:43,337 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:46:29,819 __main__ INFO google.com/
+2022-12-23 13:46:30,035 __main__ INFO None
+2022-12-23 13:46:30,799 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:46:30,799 __main__ INFO error ipening as
+2022-12-23 13:46:31,973 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:46:56,446 __main__ INFO google.com/
+2022-12-23 13:46:56,493 __main__ INFO None
+2022-12-23 13:46:57,070 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:46:57,070 __main__ INFO error ipening as
+2022-12-23 13:46:58,302 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:47:23,028 __main__ INFO google.com/
+2022-12-23 13:47:23,196 __main__ INFO None
+2022-12-23 13:47:23,791 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:47:23,791 __main__ INFO error ipening as
+2022-12-23 13:47:24,947 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:47:42,779 __main__ INFO google.com/
+2022-12-23 13:47:42,872 __main__ INFO None
+2022-12-23 13:47:43,339 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:47:43,339 __main__ INFO error ipening as
+2022-12-23 13:47:44,437 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:48:40,578 __main__ INFO google.com/
+2022-12-23 13:48:42,728 __main__ INFO None
+2022-12-23 13:48:43,355 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:48:43,355 __main__ INFO error ipening as
+2022-12-23 13:48:44,616 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:49:06,206 __main__ INFO google.com/
+2022-12-23 13:49:06,346 __main__ INFO None
+2022-12-23 13:49:06,793 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:49:06,793 __main__ INFO error ipening as
+2022-12-23 13:49:07,772 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:50:17,540 __main__ INFO google.com/
+2022-12-23 13:50:17,616 __main__ INFO None
+2022-12-23 13:50:18,087 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:50:18,087 __main__ INFO error ipening as
+2022-12-23 13:50:19,168 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:51:20,839 __main__ INFO google.com/
+2022-12-23 13:51:20,936 __main__ INFO None
+2022-12-23 13:51:22,378 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:51:22,378 __main__ INFO error ipening as
+2022-12-23 13:51:23,592 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:52:39,113 __main__ INFO google.com/
+2022-12-23 13:52:39,183 __main__ INFO None
+2022-12-23 13:52:39,617 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:52:39,617 __main__ INFO error ipening as
+2022-12-23 13:52:40,593 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:53:43,099 __main__ INFO google.com/
+2022-12-23 13:53:43,167 __main__ INFO None
+2022-12-23 13:53:43,616 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:53:43,616 __main__ INFO error ipening as
+2022-12-23 13:53:44,618 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:55:18,320 __main__ INFO google.com/
+2022-12-23 13:55:18,392 __main__ INFO None
+2022-12-23 13:55:18,827 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:55:18,828 __main__ INFO error ipening as
+2022-12-23 13:55:19,782 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
+2022-12-23 13:57:59,212 __main__ INFO google.com/
+2022-12-23 13:57:59,275 __main__ INFO None
+2022-12-23 13:57:59,694 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2022-12-23 13:57:59,695 __main__ INFO error ipening as
+2022-12-23 13:58:00,638 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, -1, 1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
